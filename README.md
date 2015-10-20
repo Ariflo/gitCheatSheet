@@ -30,7 +30,7 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 `$ git commit -m "<commit message>"` - Record changes to the repository with the message, `<commit message>`
 
 #### Branching
-`$ git branch <branch name>` - Create a new branch called <branch name>
+`$ git branch <branch name>` - Create a new branch called `<branch name>`
 
 `$ git branch` - __Fill Me Out__
 
